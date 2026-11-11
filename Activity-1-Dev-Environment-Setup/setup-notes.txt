@@ -1,0 +1,8 @@
+C/C++ Development Environment Setup
+
+I used Visual Studio Code as my code editor.
+I installed the Microsoft C/C++ extension.
+I used the MSYS2 GCC compiler toolchain.
+I verified GCC and G++ using version commands.
+I compiled hello.c using the GCC compiler.
+I executed the program successfully and got the output Hello, World!
